@@ -1,0 +1,2 @@
+Concept of networks called autoencoders:
+Takes input values, passes them through a number of layers, to find a smaller way to represent the dataset. Think of this as a compression step. Then uncompress that small representation, and make sure input matches output. This is used in combination with transfer learning if training data availability is a limiting factor.

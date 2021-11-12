@@ -1,0 +1,1 @@
+Finding existing network trained on data similar to current problem's labeled data, and repurposing it for current data. 'Chop' off the output layers and train a new network to take output from built network, of a size which can be effectively trained by dataset size. 

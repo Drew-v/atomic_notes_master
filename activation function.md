@@ -1,0 +1,1 @@
+What is an activation funciton? It is what a machine learning network uses to make predictions, based on model output. 

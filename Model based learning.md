@@ -1,0 +1,1 @@
+Algorithm builds internal model to represent data,  uses model to make  predictions on unseen data. 

@@ -1,0 +1,2 @@
+- Average pooling returns the average of all the values under the kernal
+	- only performs dimensionality reduction, which doubles as its noise suppression mechanism 

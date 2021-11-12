@@ -1,0 +1,2 @@
+A very different system, utilizes what is called an _agent_, which can observe the environment, select from and perform actions, and get rewards in return(or penalties) ,
+?where reward function is determined by programmer?. Agent learns by itself what is the best strategy for maximizing reward or min negative rewards, called a policy, over time. Policy determines what action is to be taken in a given situation. 
