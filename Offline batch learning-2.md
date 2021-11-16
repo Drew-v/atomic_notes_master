@@ -1,0 +1,1 @@
+Model is trained with all available data, is then used to make predictions. Model does not adapt as new predictions are made. As opposed to [[online machine learning]]

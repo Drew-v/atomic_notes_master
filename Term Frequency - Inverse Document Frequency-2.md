@@ -1,0 +1,1 @@
+Encodes any kind of text as a statistic of how frequent each word or term is in each sentence in a given document. 

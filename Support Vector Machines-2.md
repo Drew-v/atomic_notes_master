@@ -1,0 +1,1 @@
+SVM support binary and multi class classification, and non-linear class boundaries. SVM Is an extension of a support vector classifier, and the SVC is a generalization of the maximal margin classifier. The MMC can only separate classes with a linear boundary, which is why SVCs and SVMs are more widely used. 

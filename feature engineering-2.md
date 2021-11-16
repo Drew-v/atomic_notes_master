@@ -1,0 +1,3 @@
+- feature selection
+- Feature extraction
+- Creating new features by gathering new data, clever manipulation of old data
