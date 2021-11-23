@@ -2,3 +2,4 @@ The Pooling layer follows a [[Convolution Layer]] in a [[convolutional neural ne
 
 Two kinds: [[Max Pooling]] (returns max value of convolution slice) and [[Average Pooling]] (returns average value of convolution slice). ** For this reason, max pooling tends to perform better than average pooling**
 <img src="https://miro.medium.com/max/1000/1*KQIEqhxzICU7thjaQBfPBQ.png">
+Also note pooling introduces invariance into the output layer, this translational invariance is the result of picking only the maximum value in a given filter area, giving slight rotational invariance and translational invariance. Over many layers, this invariance van built up over time to result in significant total variance. THis can be useful in cases where classification should not depend on these details, i.e. a person is a person no matter where they are in an image. 

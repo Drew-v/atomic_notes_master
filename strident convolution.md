@@ -1,0 +1,1 @@
+Normal convolution but setting stride > 1

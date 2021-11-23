@@ -6,6 +6,11 @@ Machine Learning programmers must explore and pre process data to feed ML algori
 	- Complex problems where traditional approaches provide no good solution
 	- Fluctuating environment, ML system adapts to new data
 	- Gain insights about complex problems and large amounts of data
+
+### Applications of machine learning
+Here are some examples of real life applications of ML algorithms
+	- [[image processing]]
+	- [[Speech recognition]]
 ### Types of ML systems: 
 1. [[supervised machine learning]] and  [[unsupervised machine learning]] types:
 	- [[supervised machine learning | supervised]]

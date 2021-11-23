@@ -18,6 +18,6 @@ In this case, image being traversed is in RGB (greyscale would be one layer), an
 - Results of matrix mult. are summed if multiple layers, and a bias is added
 - **this operation gives us a squashed one depth convoluted feature output**
 
-Conventionally, the first conv layer detects low level features; edges, color or gradient orientation. Adding more conv layers enables higher level features to be detected. A kernal can either increase, decrease, or keep dimensionality of input image the same
+Conventionally, the first conv layer detects low level features; edges, color or gradient orientation. Adding more conv layers enables higher level features to be detected. A kernal can either increase, decrease, or keep dimensionality of input image the same. Depending on stride, valid padding may ignore some pixels at the bottom and right of the input image. 
 - **Same Padding**: 5x5x1 image  -> 6x6x1 image and apply 3x3x1 kernal, the coonvolved matrix is 5x5x1, same as input image
 - **Valid Padding:** without padding, resultant convolved matrix is 3x3x1, size of kernal itself
