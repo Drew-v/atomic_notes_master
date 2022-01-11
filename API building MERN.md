@@ -22,3 +22,13 @@ Middleware can be triggered when a type of route is hit
 Npm install mongoose
 Moab good for testing api with a databases server setup 
 
+Incoming json must be parsed, there is a package called body-parser
+
+Const jsonparser = require('body-parser')
+
+App.use(bodyParser.json())
+Can use jsonparser as an object now. 
+
+Post.find() returns all posts
+
+MERN api with [[Jason Web Token]]
