@@ -1,1 +1,0 @@
-instance memorizes, then generalizes to new data by comparing against known data using a similarity measure. The algorithm does not build a model to understand the training data. Just memorization. 

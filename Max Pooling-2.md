@@ -1,2 +1,0 @@
-- Max pooling returns maximum value from image partition under the kernal partition
-	- Also performs as a Noise Suppressant: discarding noisy activations, otherwise performs de-noising along with dimensionality reduction

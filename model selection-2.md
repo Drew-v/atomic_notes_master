@@ -1,1 +1,0 @@
-Validation estimates model generalization during model selection process. Generalization error is model error on data unseen during training. Choose the model which has the best generalization error performance. 

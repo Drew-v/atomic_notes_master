@@ -1,2 +1,0 @@
-[[UCF Notes]]
-[[Self Learning]]
