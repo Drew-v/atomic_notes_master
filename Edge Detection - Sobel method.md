@@ -1,0 +1,1 @@
+Just like the [[Edge Detection - Roberts method]], but takes average of 4 pixels to smooth before finding edges.
