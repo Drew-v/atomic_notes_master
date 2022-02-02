@@ -26,3 +26,25 @@ because languages are sets, with additional properties, an empty language uses t
 a language containing an empty string is not an empty set, and its not the empty language since the empty language is the language containing the empty set
 
 reverse of cat is tac
+
+
+
+__HOW TO PROVE SOMETHING__
+	- start writing, dont get stalled. Put pen to paper
+1. understand statement
+2. convince yourself if it is true or false
+3. work out its impolications to get general sense of _why_ it is true or false
+4. break down any subcases
+5. get started
+
+__quasi narrative format and two-column format to solve proofs__
+	- will be using this a lot, make sure to understand it
+- proofs by direct arguement
+	- narrative/two column format i think
+- construction
+	- will be used a lot
+- contradiction
+	- the evil chicken!
+- weak induction
+	- division algorithm proof, euclid's theorem proof
+- strong induction
