@@ -6,3 +6,4 @@
 [[Discrete II - COT4210 - W04_L01 - NFAs continued]]
 [[Discrete II - COT4210 - W04_L02 - Regular expressions]]
 [[Discrete II - COT4210 - W05_L01 - GNFAs, translating DFA -> RegEx]]
+[[Discrete II - COT4210 - W08_L01 - Pumping lemma, exam1 review]]

@@ -6,3 +6,4 @@ Taught by Damien Dechev
 [[COP4520 - W03_L02 - Wait Free Structures]]
 [[COP4520 - W03_L02 - linearizability]]
 [[COP4520 - W06_L01 - chapter 7]]
+[[COP4520 - W07_L02 - chapter 9]]
