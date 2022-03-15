@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "95d32f508394fbfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c8e20548b35718",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a8b5cc9714b05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9668fa00a7c3df48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16434876a2333889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29e457b46e18a0f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cop",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c131622d9aeae9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f06e9b7f9856b579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3955f4081699f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.20001220703125,
+    "collapsed": true
+  },
+  "active": "91c8e20548b35718",
+  "lastOpenFiles": [
+    "textbook notes.md",
+    "AOMPP - chapter 3 Concurrent correctness and progress properties.md",
+    "Parallel Processes COP 4520.md",
+    "COP4520 - W01_L01.md",
+    "UCF_SPRING_2022.md",
+    "Discrete II - COT4210.md",
+    "Discrete II - COT4210 - W10_L01 - Turing machines(deterministic) Part 1.md",
+    "latex in markdown.md",
+    "total order and partial order.md",
+    "irreflexive and transitive.md"
+  ]
+}
