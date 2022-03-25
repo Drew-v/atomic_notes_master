@@ -1,20 +1,21 @@
 ### reminders
 **mutual exclusion**: a process locks down a shared resource while performing some operation with it. introduces ***waiting***. it is a *safety property*. 
 **freedom from deadlock:** if some thread attempts aquiring lock, then some thread will succeed aquiring it. if it cannot, then some thread must be executing an infinite # of critical sections. *deadlock freedom is a liveness property*. 
-**freedom from starvation:** every thread that attempts too aquire the lock eventually succeeds. every call to lock() returns. the starvation freedom property is the weakest property of the three
+**freedom from starvation:** every thread that attempts too aquire the lock eventually succeeds. every call to lock() returns. the starvation freedom property is the strongest property of the three
 **correctness**: if a program correctly follows sequential behavior
 **safety**: guarantee that some bad thing does not happen
 **liveness**: progress guarantee
 **transient communication:** both parties participate at the same time. 
 **persistent communication**: parties participate at different times. 
 **deadlock-free:** if one threads attempts aquire lock, it eventually succeeds. if two attempt lock aquire, then eventually at least one succeeds. *liveness property*.
-**starvation-free:** stronger than deadlock freedom property, all threads attempting to access a critical section eventually make progress.  *liveness property*.
+**starvation-free:** stronger than deadlock freedom property, all threads attempting to access a critical section eventually succeed.  *liveness property*.
 **Amdahls Law:** the more processors added is dependant on proportion of work which can be paralellized. its given as: $S =\dfrac{1}{1-p+{\dfrac{p}{n}}}$,
 where S is given as the maximum speedup, achieved by n processors where p is the fraction of the job which can be parallelized
 ***thread***: a **state machine** whose state transitions are called ***events***. 
 ***partial order*** & ***total order***: [[total order and partial order]]
 ***total method***: a method is total if it is defined for every object state, otherwise it is called a ***partial method***. 
-
+***invariant***: description of an object state which remains unchanged when specified transformations are applied
+***representation invariant***: conditions concerning the state of an object, which are required to not be violated by method side effects/operations. 
 
 ### Chapter 3: concurency, correctness
 **concurrent object behavior**: described with safety and liveness properties, referred to as correctness and progress. three correctness conditions examined: **Quiescent consistency, Sequential consistency and Linearizability.** Quiescent consistency trades weak concurrency constraints for high performance. Sequential consistency is stronger condition often useful for low level hardware systems. Linearizability is the strongest constraint which ensures a system's behavior can be mapped sequentially.
@@ -39,6 +40,7 @@ where S is given as the maximum speedup, achieved by n processors where p is the
 - *linearizable*: a history is linearizable if it has an extension H' and there is a legal sequential history S such that 
 	- L1 complete (H') is equivalent to S, and
 	- L2 if method call $m_0$ precedes method call $m_1$, in H, then the same is true in S
+	- further stated: A history is linearizable if it can be reordered into a sequential history, which is correct according to the sequential definition of the object. If a response preceded an invocation in the original history, it must also precede it in the sequential reordering.
 - *linearization*: a specific *legal* and *complete* history of H, which there can be many linearizations of a specific history H. The above history S is a linearization of H.
 - *wait-free* a method is wait free if it guarantees that every call finsihes its execution in a finite number of steps. 
 - *bounded wait free* a method is bounded wait-free if there is a bound on the number of steps a method can take.
