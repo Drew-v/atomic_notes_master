@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fe89c8c51e2f6b43",
+        "id": "a6bafe66d80b3a36",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concurrent",
+                "query": "loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.20001220703125
+    "width": 256.20001220703125,
+    "collapsed": true
   },
-  "active": "fe89c8c51e2f6b43",
+  "active": "a6bafe66d80b3a36",
   "lastOpenFiles": [
     "Discrete II - COT4210.md",
-    "Discrete II - W07_L01 - ambiguity and Chomsky Normal Form (not started).md",
+    "Discrete II - W08_L02 - CFLs and counting - the pumping lemma.md",
+    "Discrete II - W07_L02 - Pushdown Automata continued.md",
+    "Discrete II - W07_L01 - Chomsky Normal Form - Pushdown automata.md",
     "Discrete II - W06_L02 - context free grammar - context free language.md",
     "Discrete II - W06_L01 - Pumping Lemma continued.md",
     "Discreete II - COT4210 W05_L02 - Non-regular languages and the PUMPING LEMMA.md",
     "Pasted image 2022032415402.png.md",
     "mermaid - table - diagrams - examples.md",
-    "Discrete II - COT4210 - W10_L01 - Turing machines(deterministic) Part 1.md",
-    "UCF_SPRING_2022.md",
-    "Parallel Processes COP 4520.md"
+    "Discrete II - COT4210 - W10_L01 - Turing machines(deterministic) Part 1.md"
   ]
 }
