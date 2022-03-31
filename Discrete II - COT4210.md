@@ -5,7 +5,7 @@
 [[Discrete II - COT4210 - W03_L02 - Automata, NFAs, DFAs]]
 [[Discrete II - COT4210 - W04_L01 - NFAs continued]]
 [[Discrete II - COT4210 - W04_L02 - Regular expressions]]
-[[Discrete II - COT4210 - W05_L01 - GNFAs, translating DFA -> RegEx]]
+[[Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx]]
 [[Discreete II - COT4210 W05_L02 - Non-regular languages and the PUMPING LEMMA]]
 [[Discrete II - W06_L01 - Pumping Lemma continued]]
 [[Discrete II - W06_L02 - context free grammar - context free language]]

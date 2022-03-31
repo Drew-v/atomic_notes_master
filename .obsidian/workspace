@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discrete II - COT4210.md",
+            "file": "Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx.md",
             "mode": "source",
             "source": false
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "40bab4efdf16c1fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -71,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete II - COT4210.md",
+                "file": "Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete II - COT4210.md",
+                "file": "Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete II - COT4210.md"
+                "file": "Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx.md"
               }
             }
           }
@@ -113,15 +121,15 @@
   },
   "active": "a6bafe66d80b3a36",
   "lastOpenFiles": [
+    "Discrete II - COT4210 - W05_L01 - GNFAs - translate DFA to RegEx.md",
     "Discrete II - COT4210.md",
+    "Discrete II - COT4210 - W02_L01 - Automata.md",
     "Discrete II - W08_L02 - CFLs and counting - the pumping lemma.md",
     "Discrete II - W07_L02 - Pushdown Automata continued.md",
     "Discrete II - W07_L01 - Chomsky Normal Form - Pushdown automata.md",
     "Discrete II - W06_L02 - context free grammar - context free language.md",
     "Discrete II - W06_L01 - Pumping Lemma continued.md",
     "Discreete II - COT4210 W05_L02 - Non-regular languages and the PUMPING LEMMA.md",
-    "Pasted image 2022032415402.png.md",
-    "mermaid - table - diagrams - examples.md",
-    "Discrete II - COT4210 - W10_L01 - Turing machines(deterministic) Part 1.md"
+    "Pasted image 2022032415402.png.md"
   ]
 }
