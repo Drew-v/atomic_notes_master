@@ -13,7 +13,12 @@
 [[Discrete II - W07_L02 - Pushdown Automata continued]]
 [[Discrete II - COT4210 - W08_L01 - Pumping lemma, exam1 review]]
 [[Discrete II - W08_L02 - CFLs and counting - the pumping lemma]]
-[[Discrete II - W09_L01]]
-[[Discrete II - W09_L02]]
+(spring break)
+(spring break)
 [[Discrete II - COT4210 - W10_L01 - Turing machines(deterministic) Part 1]]
 [[Discrete II - COT4210 - W10_L02 - Turing machines (deterministic) Part 2]]
+[[Discrete II - COT4210 - W11_L01 -]] (class was cancelled)
+[[Discrete II - COT4210 - W11_L02 - Accepting Lesser Languages (IMPORTANT) ]]
+[[Discrete II - COT4210 - W12_L01 - Turing machines & Undeciable languages ]]
+[[DiscreteII - COT4210 - W12_L02 - Turing decidability]]
+[[Discrete II - COT4210 - W13_L01 - Computation Histories]]
