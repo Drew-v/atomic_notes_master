@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
+            "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "palindrome",
+                "query": "chomsky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
+                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
+                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L01 - Computation Histories.md"
+                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md"
               }
             }
           }
@@ -120,15 +121,15 @@
   },
   "active": "1c5e3654d6f3e97e",
   "lastOpenFiles": [
-    "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
+    "Discrete II - COT4210 - W13_L02 - The Class Path.md",
     "Discrete II - COT4210.md",
     "Discrete II - COT4210 - W12_L01 - Turing machines & Undeciable languages.md",
     "Discrete II - COT4210 - W11_L02 - Accepting Lesser Languages (IMPORTANT).md",
+    "Discrete II - W07_L01 - Chomsky Normal Form - Pushdown automata.md",
+    "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
     "Pasted image 20220409144610.png",
     "Discrete II - W09_L01.md",
     "Discrete II - W07_L02 - Pushdown Automata continued.md",
-    "DiscreteII - COT4210 - W12_L02 - Turing decidability.md",
-    "Discrete II - COT4210 - W10_L02 - Turing machines (deterministic) Part 2.md",
-    "4611 Hollander last lecture!.md"
+    "DiscreteII - COT4210 - W12_L02 - Turing decidability.md"
   ]
 }
