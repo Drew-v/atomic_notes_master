@@ -22,4 +22,6 @@
 [[Discrete II - COT4210 - W12_L01 - Turing machines & Undeciable languages ]]
 [[DiscreteII - COT4210 - W12_L02 - Turing decidability]]
 [[Discrete II - COT4210 - W13_L01 - Computation Histories]]
-[[Discrete II - COT4210 - W13_L02 - The Class Path]]
+[[Discrete II - COT4210 - W13_L02 - The Class of problems P and NP]]
+no lecture 1 for week 14
+[[Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP]]

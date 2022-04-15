@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
+            "file": "Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chomsky",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
+                "file": "Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md",
+                "file": "Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete II - COT4210 - W13_L02 - The Class Path.md"
+                "file": "Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP.md"
               }
             }
           }
@@ -121,15 +121,15 @@
   },
   "active": "1c5e3654d6f3e97e",
   "lastOpenFiles": [
-    "Discrete II - COT4210 - W13_L02 - The Class Path.md",
+    "Discrete II - COT4210 - W14_L02 - Complexity continued - CLASS NP.md",
     "Discrete II - COT4210.md",
-    "Discrete II - COT4210 - W12_L01 - Turing machines & Undeciable languages.md",
-    "Discrete II - COT4210 - W11_L02 - Accepting Lesser Languages (IMPORTANT).md",
-    "Discrete II - W07_L01 - Chomsky Normal Form - Pushdown automata.md",
-    "Discrete II - COT4210 - W13_L01 - Computation Histories.md",
-    "Pasted image 20220409144610.png",
-    "Discrete II - W09_L01.md",
-    "Discrete II - W07_L02 - Pushdown Automata continued.md",
-    "DiscreteII - COT4210 - W12_L02 - Turing decidability.md"
+    "Discrete II - COT4210 - W13_L02 - The Class of problems P and NP.md",
+    "UCF_SPRING_2022.md",
+    "Parallel Processes COP 4520.md",
+    "COP4520 - W07_L02 - chapter 9.md",
+    "Markdown formatting.md",
+    "mermaid - table - diagrams - examples.md",
+    "Convolution Layer.md",
+    "Discrete II - W07_L02 - Pushdown Automata continued.md"
   ]
 }
